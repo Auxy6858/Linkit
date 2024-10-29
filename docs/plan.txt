@@ -1,0 +1,3 @@
+GUI app written in C# to make flowcharts, using avalonia for frontend.
+Why?
+  I want a good flowchart app and it will help me learn more about using the avalonia framework.
